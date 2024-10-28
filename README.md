@@ -8,4 +8,5 @@ Using Python, pandas, and matplot various graphics are created to explore how th
 
 You can easily see the effect of the COVID-19 pandemic on shows. The number of performances decreased dramatically in the 2019-2020 season.
 
-You can access the original dataset here: https://data.tuik.gov.tr/Bulten/Index?p=Sinema-ve-Gosteri-Sanatlari-Istatistikleri-2023-53639
+You can access the original dataset here and other "cultural" datasets: https://data.tuik.gov.tr/Bulten/Index?p=Sinema-ve-Gosteri-Sanatlari-Istatistikleri-2023-53639
+
